@@ -1,5 +1,6 @@
 # Analyzing-Crime-Rates-in-Nigeria-Patterns-Causes-and-Prevention-Strategies
 Analyzing Crime Rates in Nigeria: Patterns, Causes, and Prevention Strategies
+
 This project seeks to analyze crime rates and disorderly events across Nigeria over a period from 2000 to 2024. By examining a comprehensive dataset from Armed Conflict Location & Event Data (ACLED), that includes various types of criminal activities such as political violence, protests, battles, and attacks on civilians, the project aims to uncover key patterns, underlying causes, and potential prevention strategies for these crimes.
 
 The dataset contains detailed information about various events in Nigeria related to demonstrations, political violence, and other disorder types. The key columns in the dataset include:
@@ -89,4 +90,5 @@ Based on the data, the project will offer actionable recommendations for crime p
 A proposed framework for ongoing monitoring and prevention of crime in Nigeria will be outlined, allowing for sustainable strategies that can be adapted over time to meet changing conditions.
 
 ### Conclusion:
+
 This project is crucial in shedding light on the complex issue of crime in Nigeria, where various socio-political and economic factors contribute to the country's security challenges. The analysis of this 24-year dataset will provide valuable insights into crime patterns, causes, and strategies for prevention, helping to build a safer, more stable Nigeria for the future.
